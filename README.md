@@ -9,7 +9,11 @@ Informe 1 Minería de datos 2021
 
 
 
-## estas son las liberías que se utilizarán##
+Liberías 
+================
+
+estas son las liberías a utilizar
+-------------
 
 library (tidyverse)
 ```
