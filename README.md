@@ -1,4 +1,4 @@
-Untitled
+Proyecto 1 Minería de datos 2021 
 ================
 
 ``` r
@@ -9,7 +9,9 @@ Untitled
 
 
 
-## estas son las liberías que se utilizarán##
+liberias 
+================
+
 
 library (tidyverse)
 ```
