@@ -9,7 +9,8 @@ Proyecto 1 Minería de datos 2021
 
 
 
-- liberias 
+liberias 
+================
 
 
 library (tidyverse)
