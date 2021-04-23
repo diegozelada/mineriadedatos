@@ -9,7 +9,8 @@ Informe 1 Minería de datos 2021
 
 
 
-##liberías 
+liberias 
+--------
 
 library (tidyverse)
 ```
