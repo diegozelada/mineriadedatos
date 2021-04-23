@@ -1,4 +1,4 @@
-Informe 1 Minería de datos 2021 
+Proyecto 1 Minería de datos 2021 
 ================
 
 ``` r
@@ -9,8 +9,8 @@ Informe 1 Minería de datos 2021
 
 
 
-liberias 
---------
+-liberias 
+
 
 library (tidyverse)
 ```
